@@ -1,0 +1,101 @@
+label,text,article_link,zero_shot_pred,few_shot_pred,trad_ml_pred,trad_ml_error,zero_shot_error,few_shot_error,category
+0,elizabeth warren wades into democratic party's debate on candidates' abortion views,https://www.huffingtonpost.com/entry/elizabeth-warren-democrats-abortion-debate_us_58ff722ee4b0c46f07828780,0,0,0,False,False,False,general
+1,bush orders iraq to disarm before start of war,https://politics.theonion.com/bush-orders-iraq-to-disarm-before-start-of-war-1819566787,0,0,1,False,True,True,general
+1,grandma's only movie watched again,https://local.theonion.com/grandma-s-only-movie-watched-again-1819589322,0,0,1,False,True,True,short
+1,syrian electronic army has a little fun before inevitable upcoming deaths at hands of rebels,https://www.theonion.com/syrian-electronic-army-has-a-little-fun-before-inevitab-1819574930,1,1,1,False,False,False,general
+0,mad men: om is where the heart is,https://www.huffingtonpost.com/entry/mad-men-om-is-where-the-h_b_7419056.html,0,1,0,False,False,True,general
+0,7 mistakes leaders make that make everyone miserable,https://www.huffingtonpost.com/entry/7-mistakes-leaders-make-t_b_9169890.html,0,0,0,False,False,False,general
+0,"trump expels 60 russians, closes russian consulate in seattle after uk chemical attack",https://www.huffingtonpost.com/entry/trump-expels-60-russians-after-uk-chemical-attack_us_5ab8efbfe4b054d118e4f35c,0,0,0,False,False,False,political
+0,this 'brilliant' new technology could spell the demise of the flu shot,https://www.huffingtonpost.comhttp://huff.lv/11SXLUM,1,1,1,True,True,True,general
+1,outkast universally accepted,https://entertainment.theonion.com/outkast-universally-accepted-1819587428,0,0,0,True,True,True,short
+0,trump says his attitude toward syria changed with chemical attack,https://www.huffingtonpost.com/entry/trump-syria-chemical-attack_us_58e52face4b0fe4ce087845e,0,0,0,False,False,False,political
+0,what everyday iranians have to say about the nuclear deal now that it's a reality,https://www.huffingtonpost.com/entry/iranians-nuclear-deal-reaction_us_56a280b5e4b0d8cc1099fac5,0,0,0,False,False,False,general
+0,meet the millennial men who love hillary clinton,https://www.huffingtonpost.com/entry/meet-the-millennial-men-who-love-hillary-clinton_us_57a1fe11e4b0e2e15eb7f4de,0,0,0,False,False,False,general
+1,budget talks dreadlocked,https://politics.theonion.com/budget-talks-dreadlocked-1819564155,0,0,0,True,True,True,short
+1,scientists theorize what would happen if they touched a cloud,https://www.theonion.com/scientists-theorize-what-would-happen-if-they-touched-a-1819569411,0,0,1,False,True,True,science
+1,national zoo announces giant pandas to divorce,https://www.theonion.com/national-zoo-announces-giant-pandas-to-divorce-1819580414,1,1,1,False,False,False,short
+0,ex-cop to stand trial in dashcam beating of unarmed motorist,https://www.huffingtonpost.com/entry/william-melendez-preliminary-hearing-floyd-dent_n_7463644.html,0,0,0,False,False,False,general
+0,borrowers pay sky-high rates in a subprime bubble for used cars,https://www.huffingtonpost.com/entry/subprime-used-cars_n_5603382.html,0,0,1,True,False,False,general
+0,this is what it's really like out there for female superheroes,https://www.huffingtonpost.com/entry/angelfire-female-superhero_n_5666806.html,0,0,0,False,False,False,general
+0,the importance of partnerships: why business and higher ed need each other,https://www.huffingtonpost.com/entry/the-importance-of-partner_b_5869756.html,0,0,0,False,False,False,general
+0,the role dreams play in our daily lives,https://www.huffingtonpost.com/entry/dreams-and-sleep_b_6680490.html,0,0,0,False,False,False,general
+1,jeff sessions spits in face of fbi interrogator trying to get him to turn on trump,https://politics.theonion.com/jeff-sessions-spits-in-face-of-fbi-interrogator-trying-1819579671,0,1,0,True,True,False,political
+1,egyptians concerned about direction government is toppling in,https://politics.theonion.com/egyptians-concerned-about-direction-government-is-toppl-1819575276,1,1,0,True,False,False,general
+0,hbo's new streaming service is now live,https://www.huffingtonpost.com/entry/hbo-now-launches_n_7017958.html,0,0,1,True,False,False,short
+1,metallica board of directors debates whether new riff will have negative impact on shareholder value,https://www.theonion.com/metallica-board-of-directors-debates-whether-new-riff-w-1819579870,1,1,1,False,False,False,general
+0,baylor player has the perfect response to the dumbest question,https://www.huffingtonpost.com/entry/baylor-taurean-prince-yale-interview_us_56ebfbd4e4b09bf44a9d00ea,1,1,0,False,True,True,general
+1,"new report finds adult film star may have paid over $130,000 to cover up sexual encounter with trump",https://politics.theonion.com/new-report-finds-adult-film-star-may-have-paid-over-13-1822124133,0,0,1,False,True,True,political
+0,julianne hough lived in pain for years because of endometriosis,https://www.huffingtonpost.com/entry/julianne-hough-endometriosis_us_5aa2a2cbe4b086698a9d2274,0,0,0,False,False,False,general
+0,former treasury secretary hank paulson says he will vote for hillary clinton,https://www.huffingtonpost.com/entry/hank-paulson-hillary-clinton_us_576ee862e4b017b379f62ad3,0,0,0,False,False,False,general
+0,how seriously does your nonprofit board take the matter of ethics?,https://www.huffingtonpost.com/entry/-how-seriously-does-your_b_5582892.html,0,0,0,False,False,False,general
+0,9 parking garage designs that are works of art,https://www.huffingtonpost.com/entry/9-parking-garage-designs-that-are-works-of-art_us_58c834a6e4b0816ed87b5e3a,0,0,1,True,False,False,general
+0,deceptively simple resolutions that actually work,https://www.huffingtonpost.com/entry/deceptively-simple-resolu_b_6406918.html,0,0,1,True,False,False,short
+1,area man growing a little tired of rushing home to hug loved ones,https://local.theonion.com/area-man-growing-a-little-tired-of-rushing-home-to-hug-1819574844,1,1,1,False,False,False,sports
+0,6 surprising things i learned from a visit to the er,https://www.huffingtonpost.com/entry/heart-attack-symptoms_b_5235047.html,0,0,0,False,False,False,general
+0,tom brady does not want to talk about his 'good friend' trump's gross comments,https://www.huffingtonpost.com/entry/donald-trump-tom-brady-locker-room-talk_us_57fe9b7be4b05eff55814556,1,0,0,False,True,False,political
+0,the fakebook inside facebook,https://www.huffingtonpost.com/entry/the-fakebook-inside-facebook_us_5a02192de4b02f3ab3377dc6,1,1,0,False,True,True,short
+1,hillary clinton waiting in wings of stage since 6 a.m. for dnc speech,https://politics.theonion.com/hillary-clinton-waiting-in-wings-of-stage-since-6-a-m-1819579076,0,1,0,True,True,False,sports
+1,only name area man recognizes on ballot 'jill stein',https://politics.theonion.com/only-name-area-man-recognizes-on-ballot-jill-stein-1819574161,1,1,1,False,False,False,general
+1,obama narrowly survives carnivorous section of rose garden,https://www.theonion.com/obama-narrowly-survives-carnivorous-section-of-rose-gar-1819570594,1,1,0,True,False,False,political
+0,the red sweaters you need to look like national treasure kenneth bone,https://www.huffingtonpost.com/entry/ken-bone-sweater-weather_us_57fbb924e4b0b6a4303433e6,1,1,0,False,True,True,general
+1,new mit study suggests sonic the hedgehog might be living in computer simulation,https://www.theonion.com/new-mit-study-suggests-sonic-the-hedgehog-might-be-livi-1819580078,1,1,1,False,False,False,science
+0,"these are the home trends you'll see all year, according to pinterest",https://www.huffingtonpost.com/entry/these-are-the-2018-home-trends-youll-see-all-year-according-to-pinterest_us_5adf4905e4b061c0bfa2356b,0,0,0,False,False,False,general
+1,scientists finally figure out what hats do,https://www.theonion.com/scientists-finally-figure-out-what-hats-do-1828056504,1,1,1,False,False,False,science
+1,ilhan omar thankful for colleagues educating her on painful history aipac lobbyists have had to endure,https://politics.theonion.com/ilhan-omar-thankful-for-colleagues-educating-her-on-pai-1832540739,1,1,0,True,False,False,long
+0,paris jackson stands up to social media haters and their 'ridiculous' expectations,https://www.huffingtonpost.com/entry/paris-jackson-negative-comments-instagram_us_56b5147ae4b04f9b57d9b3a8,0,0,0,False,False,False,general
+0,hillary 2016: her personal brand,https://www.huffingtonpost.com/entry/hillary-2016-her-personal_b_7095082.html,1,1,0,False,True,True,short
+0,officers of the peace,https://www.huffingtonpost.com/entry/officers-of-the-peace_b_6382974.html,0,0,0,False,False,False,short
+0,20 meditation tips for beginners,https://www.huffingtonpost.com/entry/meditation-tips-beginners_b_7691498.html,0,0,0,False,False,False,short
+1,television executive's baby cancelled in development stage,https://entertainment.theonion.com/television-executives-baby-cancelled-in-development-sta-1819565933,1,1,1,False,False,False,short
+0,arianna tells bill maher about trump's lasting contribution to american life,https://www.huffingtonpost.com/entry/arianna-huffington-bill-maher-show_us_5711e947e4b06f35cb6fbde0,1,0,0,False,True,False,political
+0,amy schumer says she 'would have loved to come out of' goldie hawn,https://www.huffingtonpost.com/entry/goldie-hawn-amy-schumer-graham-norton-come-out-of_us_59036b5de4b05c39767ef069,0,1,0,False,False,True,general
+0,teen shot and killed months after he spoke out against gun violence,https://www.huffingtonpost.com/entry/oakland-gun-violence-treyvon-godfrey_us_583ef4e2e4b0c33c8e133abf,0,0,1,True,False,False,general
+1,everyone on campus afraid of that one bar,https://www.theonion.com/everyone-on-campus-afraid-of-that-one-bar-1819567568,0,1,1,False,True,False,general
+0,tuesday's morning email: prep school drug kingpins busted,https://www.huffingtonpost.com/entry/the-morning-email_n_5190595.html,0,0,0,False,False,False,general
+1,report: most couples met on set of 'daredevil',https://entertainment.theonion.com/report-most-couples-met-on-set-of-daredevil-1819574622,1,1,1,False,False,False,general
+0,prepare to be hypnotized by these cute puppies eating their dinner,https://www.huffingtonpost.com/entry/dogs-spin-eating-video_us_57371da1e4b060aa781a79f4,0,0,0,False,False,False,general
+1,deadlocked supreme court: 'someone's voting twice',https://politics.theonion.com/deadlocked-supreme-court-someones-voting-twice-1819568546,1,1,0,True,False,False,short
+1,newly discovered recordings reveal beatles actually terrible group,https://entertainment.theonion.com/newly-discovered-recordings-reveal-beatles-actually-ter-1819570960,1,1,0,True,False,False,general
+0,"millennials may have abandoned the church, but god has not abandoned them",https://www.huffingtonpost.com/entry/millennials-may-have-aban_b_7337276.html,0,0,1,True,False,False,general
+0,how 2 california parents could 'home-school' their shackled and abused children,https://www.huffingtonpost.com/entry/california-children-shackled-home-school_us_5a5e2887e4b04f3c55a64f4d,1,1,0,False,True,True,general
+0,woman duct-tapes her dog's mouth and brags about it,https://www.huffingtonpost.comhttps://www.thedodo.com/dog-mouth-taped-shut-facebook-1481874724.html,0,1,1,True,False,True,general
+0,unusual polling question reveals which candidate is more likely to win in november,https://www.huffingtonpost.com/entry/poll-candidate-expected-win-clinton_us_5787c63de4b08608d33379be,0,0,0,False,False,False,sports
+1,d.c. authorities struggling to keep squatters out of empty state department,https://politics.theonion.com/d-c-authorities-struggling-to-keep-squatters-out-of-em-1819579591,0,0,1,False,True,True,general
+1,area woman just itching to complain if anyone objects to nativity scene in park,https://www.theonion.com/area-woman-just-itching-to-complain-if-anyone-objects-t-1819574299,1,1,1,False,False,False,general
+1,scalia bundles up in fur robe in preparation for d.c. blizzard,https://www.theonion.com/scalia-bundles-up-in-fur-robe-in-preparation-for-d-c-b-1819592475,0,1,0,True,True,False,general
+1,small-town sheriff has actually killed surprising amount of people,https://www.theonion.com/small-town-sheriff-has-actually-killed-surprising-amoun-1819589554,1,1,1,False,False,False,general
+0,meet the trans woman who wants to change romantic comedies,https://www.huffingtonpost.comhttps://broadly.vice.com/en_us/article/rain-valdez-ryans-interview,0,0,0,False,False,False,general
+1,senior citizen shaken by diminished bawdy-limerick recall,https://local.theonion.com/senior-citizen-shaken-by-diminished-bawdy-limerick-reca-1819565226,1,1,1,False,False,False,short
+1,turnout lower than expected for gala central african awards,https://www.theonion.com/turnout-lower-than-expected-for-gala-central-african-aw-1819586307,0,0,0,True,True,True,general
+0,the first gay president,https://www.huffingtonpost.com/entry/the-first-gay-president_2_b_5618813.html,0,0,0,False,False,False,political
+0,leftist friends gather as castro funeral cortege reaches final destination,https://www.huffingtonpost.com/entry/castro-funeral-cortege-reaches-destination_us_58432293e4b017f37fe4e963,1,1,0,False,True,True,general
+0,man jumps from hotel's 45th floor with jet pack,https://www.huffingtonpost.com/entry/jet-pack_n_5465201.html,0,0,1,True,False,False,general
+1,increasing number of americans unable to point out map,https://politics.theonion.com/increasing-number-of-americans-unable-to-point-out-map-1819571596,0,1,1,False,True,False,general
+0,megyn kelly: it's time to 'get comfortable' holding powerful men accountable,https://www.huffingtonpost.com/entry/megyn-kelly-sexual-harassment-accountable_us_5a1435bfe4b0bfa88c1d032d,0,0,0,False,False,False,general
+0,donald trump is beating the drum of war,https://www.huffingtonpost.com/entry/donald-trump-is-beating-the-drum-of-war_us_58ed3b1ae4b0df7e20464088,0,0,0,False,False,False,political
+1,214 executed in wacky bolivian prison mix-up,https://www.theonion.com/214-executed-in-wacky-bolivian-prison-mix-up-1819586149,1,1,0,True,False,False,short
+1,'vogue' assistant photo editor tasked with airbrushing out all of amy adams' swastika tattoos,https://entertainment.theonion.com/vogue-assistant-photo-editor-tasked-with-airbrushing-ou-1819590072,1,1,0,True,False,False,general
+0,beloved archie comics get a dark makeover in new tv series 'riverdale',https://www.huffingtonpost.com/entry/beloved-archie-comics-get-a-dark-makeover-in-new-tv-series-riverdale_us_583c6defe4b09b6056017146,0,0,0,False,False,False,general
+1,chief justice roberts putters around house all day in gray sweat robe,https://www.theonion.com/chief-justice-roberts-putters-around-house-all-day-in-g-1819592654,1,1,0,True,False,False,general
+0,republican party boss dismisses trump threat to run as independent,https://www.huffingtonpost.com/entry/republican-party-trump-independent_us_57012fb0e4b0a06d5805f747,0,0,0,False,False,False,political
+1,upper-middle-class man vows to never forget middle-class roots,https://www.theonion.com/upper-middle-class-man-vows-to-never-forget-middle-clas-1819567829,1,1,1,False,False,False,general
+1,actual problem a nice change of pace for anxious man,https://www.theonion.com/actual-problem-a-nice-change-of-pace-for-anxious-man-1819578066,1,1,1,False,False,False,general
+1,cable ace award thrown out in apartment move,https://entertainment.theonion.com/cable-ace-award-thrown-out-in-apartment-move-1819587222,0,0,1,False,True,True,general
+1,"'i don't fit into any of corporate america's little boxes,' says single, 18-to-36-year-old hispanic female with brand loyalty to tom's, chobani",https://www.theonion.com/i-don-t-fit-into-any-of-corporate-america-s-little-box-1824207087,1,1,0,True,False,False,long
+1,teens: are they laughing at you?,https://www.theonion.com/teens-are-they-laughing-at-you-1819587955,0,0,0,True,True,True,short
+1,schnauzers rioting outside madison square garden following westminster dog show defeat,https://www.theonion.com/schnauzers-rioting-outside-madison-square-garden-follow-1823007726,1,1,1,False,False,False,sports
+1,discovery of neolithic gift shop suggests stonehenge always meant as tourist attraction,https://www.theonion.com/discovery-of-neolithic-gift-shop-suggests-stonehenge-al-1819577445,1,1,1,False,False,False,general
+1,documentary about grisly murder inspires dozens of copycat documentaries,https://entertainment.theonion.com/documentary-about-grisly-murder-inspires-dozens-of-copy-1819580096,1,1,1,False,False,False,general
+1,"lions, zebras, giraffes run off cliff shrieking en masse as shadow of melania trump's jet passes over savanna",https://politics.theonion.com/lions-zebras-giraffes-run-off-cliff-shrieking-en-mass-1829475824,1,1,0,True,False,False,political
+0,reinvest in california seniors to boost local economies,https://www.huffingtonpost.com/entry/reinvest-in-california-se_b_5455218.html,0,0,1,True,False,False,general
+1,many animals harmed in catering of film,https://www.theonion.com/many-animals-harmed-in-catering-of-film-1819567548,0,0,1,False,True,True,short
+0,baldwin's trump boasts on 'snl' he's running country like a waffle house,https://www.huffingtonpost.com/entry/baldwins-trump-waffle-houe-on-snl_us_5a9b781ae4b089ec353af912,1,1,0,False,True,True,political
+0,'it's about a sense of meaning',https://www.huffingtonpost.com/entry/valerie-keller-cheryl-grise-davos_n_6536614.html,0,0,1,True,False,False,short
+1,"abortion issue 'most critical of our time,' say tobacco-industry executives",https://www.theonion.com/abortion-issue-most-critical-of-our-time-say-tobacco-1819564578,1,1,0,True,False,False,general
+0,trump's hhs nominee got a sweetheart deal from a foreign biotech firm,https://www.huffingtonpost.com/entry/trumps-hhs-nominee-got-a-sweetheart-deal-from-a-foreign-biotech-firm_us_587d32d4e4b0a1c97c3dc531,0,0,0,False,False,False,political
+1,rnc taps dennis hastert to lead new youth outreach program,https://politics.theonion.com/rnc-taps-dennis-hastert-to-lead-new-youth-outreach-prog-1821055507,1,1,1,False,False,False,general
+1,roy moore on pedophilia accusers: 'these women are only discrediting me now because shifting sociocultural norms have created an environment in which assault allegations are taken seriously',https://politics.theonion.com/roy-moore-on-pedophilia-accusers-these-women-are-only-1820405898,1,1,0,True,False,False,long
+1,two-thirds of high- school marching band just pretending to play,https://www.theonion.com/two-thirds-of-high-school-marching-band-just-pretendin-1819588294,1,1,1,False,False,False,general
+0,randy and erika jackson split after 18 years of marriage,https://www.huffingtonpost.com/entry/randy-jackson-wife-divorce_n_5890608.html,0,0,0,False,False,False,general
+1,triumph of human engineering slept through,https://www.theonion.com/triumph-of-human-engineering-slept-through-1819588815,1,1,1,False,False,False,short
+1,neighbor still has tree standing in yard weeks after arbor day,https://local.theonion.com/neighbor-still-has-tree-standing-in-yard-weeks-after-ar-1819577877,0,1,1,False,True,False,general

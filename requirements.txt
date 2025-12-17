@@ -1,0 +1,26 @@
+# Satirical News Detection - Requirements
+# Python 3.8+ required
+
+# Core ML/NLP Libraries
+datasets>=2.14.0
+transformers>=4.30.0
+torch>=2.0.0
+scikit-learn>=1.3.0
+accelerate>=0.26.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# LLM API
+anthropic>=0.x18.0
+
+# Web Interface
+gradio>=4.0.0
+
+# Model Persistence
+joblib>=1.3.0

@@ -1,0 +1,5 @@
+Method,Accuracy,Precision,Recall,F1-Score
+Traditional ML (TF-IDF+LR),0.720,0.699,0.685,0.692
+Zero-Shot LLM,0.730,0.762,0.653,0.703
+Few-Shot LLM,0.780,0.776,0.776,0.776
+Fine-Tuned Transformer,0.880,0.882,0.853,0.867
